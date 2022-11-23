@@ -1,3 +1,7 @@
+![blog](https://user-images.githubusercontent.com/56406869/203640970-cd53e47d-5dde-4ec5-8280-46360d3eaf61.PNG)
+
+
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
