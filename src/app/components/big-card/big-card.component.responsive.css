@@ -1,0 +1,11 @@
+@media screen and (max-width: 800px) {
+  .container-big-card {
+    width: 330px;
+    height: 500px;
+  }
+  .big-card-photo > img {
+    width: 100%;
+    min-width: 300px;
+  }
+
+}

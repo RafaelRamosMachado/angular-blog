@@ -1,0 +1,7 @@
+@media screen and (max-width: 600px) {
+  .content-cover > img {
+      width: 280px;
+      min-width: 280px;
+      height: 240px;
+  }
+}

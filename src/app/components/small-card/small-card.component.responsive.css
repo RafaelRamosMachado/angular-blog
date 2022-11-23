@@ -1,0 +1,17 @@
+@media screen and (max-width: 700px) {
+  .container-small-card {
+    width: 400px;
+    margin-bottom: 15px;
+  }
+  .small-card-photo > img {
+    margin-left: 20px;
+    width: 150px;
+    min-width: 150px;
+    margin-right: 10px;
+  }
+  .small-card-title > h1 {
+    font-size: 15px;
+  }
+}
+
+

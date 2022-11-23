@@ -1,0 +1,34 @@
+.container-certificate {
+  width: 100%;
+  height: 100vh;
+  margin-top: 20px;
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.certificate-photo > img{
+  border: solid 5px blue;
+  border-radius: 5px;
+  width: 800px;
+  min-width: 800px;
+  height: 600px;
+}
+
+.certificate-description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.certificate-description > p {
+  margin-top: 20px;
+  color: rgb(170, 162, 162);
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: justify;
+}
+
+a {
+  padding-bottom: 20px;
+}
